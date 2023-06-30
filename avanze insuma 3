@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Insuma1</title>
+</head>
+
+<body>
+    <header class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-9">
+                    <a href=""><img src="logoinsuma.jpg" alt=""></a>
+                </div>
+                <div class="col-3">
+                    <nav>
+                        <ul>
+                            <li><a href="">inicia sesion</a></li>
+                            <li>|</li>
+                            <li><a href="">unete</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-6">
+                    <img src="imganimada.png" alt="">
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="container-fluid">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-6">
+                            <p>para tu <b>panadería</b></p>
+                            <form>
+                                <input type="email" id="correo" name="correo"
+                                    placeholder="Ingrese su correo electrónico*" required>
+                                <p>Ingresa un correo válido (ej. correo@dominio.com)</p>
+                                <input type="submit" value="¡Quiero registrarme!">
+                                <p>Con respaldo de <b>álicorp</b></p>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <h2>Adquiere todo <b>lo que necesitas</b></h2>
+            </div>
+            <div class="row">
+                <span><img src="Frame-7912.png" alt=""> Créditos</span>
+                <span><img src="margarina.png" alt=""> Margarina</span>
+                <span><img src="niubiz.png" alt=""> Niubiz</span>
+                <span><img src="pollos.png" alt=""> Pollos</span>
+                <span><img src="aceites.png" alt=""> Aceites</span>
+                <span><img src="Mantecas.png" alt=""> Mantecas</span>
+                <span><img src="Azucar.png" alt=""> Azúcar</span>
+                <span><img src="salsas.png" alt=""> Salsas</span>
+                <span><img src="lacteos.png" alt=""> Lacteos</span>
+                <span><img src="capacitaciones.png" alt=""> Capacitaciones</span>
+                <span><img src="Verduras.png" alt=""> Verduras</span>
+                <span><img src="Wally pos.png" alt=""> Wally POS</span>
+                <span><img src="Harinas.png" alt=""> Harinas</span>
+                <span><img src="salsas2.png" alt=""> Salsas</span>
+            </div>
+        </div>
+        <div class="row">
+            <a href="https://www.insuma.com.pe/catalogo/">Ver Catalogo</a>
+        </div>
+    </section>
+    <script src="script.js"></script>
+</body>
+
+</html>
