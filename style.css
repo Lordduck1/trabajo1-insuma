@@ -7,3 +7,23 @@ header img{
 h2{
 width: 20px;
 }
+
+#pedidos{
+    background-image: url("imganen-ins.png");
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.bloque-azul{
+    background-color: blue;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 8px;
+    padding-right: 25px;
+    border-radius:28px 28px 28px 28px ;
+}
+.bloque-azul p{
+    color: white;
+}
+#correo{
+    
+}
